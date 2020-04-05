@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="click_here">" यहाँ क्लिक करें"</string>
+    <string name="toast_message">शुभ प्रभात !</string>
+</resources>

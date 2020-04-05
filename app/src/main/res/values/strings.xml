@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="click_here">Click Here</string>
+    <string name="toast_message">Good Morning !</string>
+</resources>
